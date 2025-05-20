@@ -4,45 +4,39 @@ This repository showcases my manual testing skills using Microsoft Copilot as a 
 
 ##  Project Description
 
-The goal of this project is to demonstrate:
-- Manual test case writing
-- Bug reporting
-- Understanding of UI testing
-- Documentation in Markdown for GitHub
-- Familiarity with tools like Jira and TestRail (in theory)
+This project is created to demonstrate my ability to write clear and detailed test cases and bug reports.  
+I am familiar with testing tools like **Jira** for bug tracking and **TestRail** for test case management, and I apply best practices in manual testing documentation.
 
 ##  Contents
 
-- `test-cases.md` — contains manual test cases for Microsoft Copilot interface
-- `bug-reports.md` — contains example bug reports based on UI issues
+- `test-cases.md` — manual test cases for Microsoft Copilot interface  
+- `bug-reports.md` — example bug reports based on UI issues  
 
 ##  Tools & Technologies
 
-- Markdown (for documentation)
-- GitHub (for version control & portfolio)
-- Jira (theoretical knowledge for bug tracking)
-- TestRail (theoretical knowledge for test case management)
+- Markdown (for documentation)  
+- GitHub (for version control and portfolio)  
+- Jira (bug tracking)  
+- TestRail (test case management)  
 
 ##  What was tested?
 
-Main focus: Microsoft Copilot interface (in VS Code)
+Focus on Microsoft Copilot interface within Visual Studio Code:
 
-- Login functionality
-- Copilot panel UI
-- Button behavior ("Generate Code", "Settings")
+- Login functionality  
+- Copilot panel UI  
+- Button behaviors ("Generate Code", "Settings")  
 
 ##  Sample Bugs
 
-- "Generate Code" button not responding
-- Panel overlap issues on small screens
+- "Generate Code" button not responding  
+- Panel overlap on smaller screens  
 
 ##  Purpose
 
-This is a practice/portfolio project to show how I work as a **manual QA engineer**.  
-All scenarios are fictional and created for educational purposes.
+This is a practice and portfolio project to show how I work as a **manual QA engineer**, especially in writing and managing test documentation.
 
 ##  About Me
 
-I'm learning QA and building my portfolio step by step.  
-If you're a recruiter, mentor, or just curious — welcome!
-
+I am learning QA and building my portfolio step by step.  
+If you’re a recruiter, mentor, or curious visitor — welcome!
